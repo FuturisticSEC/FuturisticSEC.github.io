@@ -1,5 +1,5 @@
-name:   'FuturisticSEC Blog'
-url:    ''
+name:   'FuturisticSEC Website and Blog'
+url:    'www.futuristicsec.com'
 author: 'Umoru Lucky Zakari'
 
 include:  ['_pages']
