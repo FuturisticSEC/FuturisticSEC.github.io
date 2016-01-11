@@ -1,10 +1,10 @@
-# PixelCog Website and Blog
+# FuturisticSEC Website and Blog
 
-You can view this website at [pixelcog.com](http://pixelcog.com/)
+You can view this website at [www.futuristicsec.com](http://www.futuristicsec.com/)
 
 ## License
 
-This work is copyright © 2013 PixelCog Inc.  All rights reserved.  
+This work is copyright © 2016 FuturisticSEC.  All rights reserved.  
 "[Minimal](https://github.com/orderedlist/minimal)" theme copyright © [Steve Smith](http://orderedlist.com/) and licenced under [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
