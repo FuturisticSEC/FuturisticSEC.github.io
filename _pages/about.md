@@ -36,4 +36,4 @@ If you are available for contracting opportunities or part-time employment, [ple
 
 
 Follow FuturisticSEC:  
-↪ [github](http://github.com/FuturisticSEC) | [twitter](http://twitter.com/FuturisticSEC) 
+↪ [github](http://github.com/FuturisticSEC) | [twitter](http://twitter.com/Futuristic_SEC) 

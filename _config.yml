@@ -1,6 +1,15 @@
 name:   'FuturisticSEC Website and Blog'
 url:    'www.futuristicsec.com'
-author: 'Umoru Lucky Zakari'
+author: 'Umoru L. Zakari'
+description: 'Information System Security and Incident Response'
+email: 'zak@futuristicsec.com'
+
+avatar:'http://gravatar.com/avatar/6ea61db1afd0fe022af40cbe4f70e19e?s=200'
+disqus:'futuristicsec'
+google_analytics:'UA-72237868-1' 
+google_verify: 
+bing_verify: 
+
 
 include:  ['_pages']
 
@@ -15,3 +24,10 @@ safe:     true
 markdown: 'kramdown'
 timezone: 'Africa/Lagos'
 highlighter: 'pygments'
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
