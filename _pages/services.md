@@ -28,7 +28,6 @@ title:     FuturisticSEC Services
 * _Security Skills Assessment and Appropriate Training to Fill Gaps_
 * _Application Software Security_
 * _Incident Response and Management_
-
  
 
 
