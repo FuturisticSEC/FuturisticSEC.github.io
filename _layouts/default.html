@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
-		<title>{% if page.title %}{{ page.title }}{% else %}FuturisticSEC{% endif %}</title>
+		<title>{% if page.title %}{{ page.title }}{% else %}PixelCog{% endif %}</title>
 
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 {% if page.blogfeed %}
@@ -19,10 +19,10 @@
 	<body>
 		<div class="wrapper{% if location == '' %} home{% endif %}">
 			<header>
-				<h1><a href="/"><img src="/img/futuristiclogo.png" alt="{{ site.name }}" width="300" /></a></h1>
+				<h1><a href="/"><img src="/img/pixelcog-logo.png" alt="{{ site.name }}" width="300" /></a></h1>
 				<nav><ul>
 					<li><a {% if location == 'about' %}class="active" {% endif %}href="/about/">About</a></li>
-					<li><a {% if location == 'services' %}class="active" {% endif %}href="/services/">Services</a></li>
+					<li><a {% if location == 'services' %}class="active" {% endif %}href="/Services/">Services</a></li>
 					<li><a {% if location == 'blog' %}class="active" {% endif %}href="/blog/">Blog</a></li>
 					<li><a {% if location == 'contact' %}class="active" {% endif %}href="/contact/">Contact</a></li>
 				</ul></nav>
@@ -32,10 +32,10 @@
 			</section>
 			<footer>
 {% if page.nobio != true %}{% if location != '' %}
-				<img class="avatar" src="/img/avatar.png?s=144" alt="Me" />
+				<img class="avatar" src="avatar.png?s=144" alt="Me" />
 {% endif %}
-				<p>FuturisticSEC is the Home of <a href="/about/">Umoru L. Zakari</a>, Digital Forensics and Incident Response.</p>
-				<p><a href="http://github.com/FuturisticSEC">github</a> | <a href="http://twitter.com/Futuristic_SEC">twitter</a></p>
+				<p>FuturisticSEC is the home of <a href="/about/">Umoru L. Zakari</a>, Digital Forensics and Incident Response, Consultant, and Entrepreneur.</p>
+				<p><a href="http://github.com/FuturisticSEC">github</a> | <a href="http://twitter.com/Futuristic_SEC">twitter</a>
 {% endif %}
 				<p>
 					<small>© {{ site.time | date: '%Y' }} FuturisticSEC.</small><br />
@@ -44,11 +44,21 @@
 			</footer>
 		</div>
 		<script src="/js/scale.fix.js"></script>
+{% comment %}
+
+============
+ ATTENTION!
+============
+
+If you are forking this repository, please remove or update the following
+Google Analytics tracking code and disqus shortname before enabling the
+javascript segment below.
+
+{% endcomment %}{% if site.github.owner_name == 'FuturisticSEC' %}
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-72237868-1']);
 			_gaq.push(['_trackPageview']);
-
 			var disqus_shortname  = 'futuristicsec',
 			    disqus_identifier = '{{ page.path | split:'/' | last | cgi_escape }}',
 			    disqus_url        = '{{ site.url }}{{ page.url | uri_escape }}'
@@ -67,7 +77,4 @@
 		</script>
 {% endif %}
 	</body>
-
-<script id="dsq-count-scr" src="//futuristicsec.disqus.com/count.js" async></script>
-        
 </html>
