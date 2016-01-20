@@ -8,19 +8,19 @@ nobio:     true
 # About FuturisticSEC
 ---------------------
 
-![Me](http://gravatar.com/avatar/6ea61db1afd0fe022af40cbe4f70e19e?s=200){: .profile .pull-right }
+![Me](/img/avatar.png?s=200){: .profile .pull-right }
 
-FuturisticSEC is multi-talented Information System Security and Incident Response Team operated by **Umoru L. Zakari** in Lagos, NG.
+FuturisticSEC is multi-talented Digital Forensics and Incident Response Team operated by **Umoru L. Zakari** in Lagos, NG.
 
 We specialize in general hardening of Critical Security Control, which make our resources to be recommended as industry-accepted system hardening standards, and are used by organizations in meeting compliance requirements for FISMA, PCI, HIPAA, Graham, Leech, Bliley and other security requirements.
 
 ### Hire Us!
 
-Got any incident on your network, rather your system had been malfunctioning lately?, if you need some technical consulting on your next compliance requirement, [Contact us](/contact/).
+Got any intruder on your network, or your system had been invaded by malware?, if you need some technical consulting on forensics analysis and incident response?, kindly [Contact us](/contact/).
 
 ### Work With Us!
 
-We're always looking for talented software engineers with experience in one or more of the following tools:
+We're always looking for talented software engineers with experience in two or more of the following tools:
 
 * _Bash_ or _VBScript_
 * _Ruby_ or _Python_
