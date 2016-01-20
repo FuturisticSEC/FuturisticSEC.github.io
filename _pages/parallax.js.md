@@ -1,5 +1,5 @@
 ---
 permalink: /parallax.js/
-redirect:  http://futuristicsec.github.io/parallax.js/
+redirect:  http://pixelcog.github.io/parallax.js/
 layout:    redirect
 ---
