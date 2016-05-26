@@ -35,7 +35,7 @@
 				<img class="avatar" src="/img/avatar.png?s=144" alt="Me" />
 {% endif %}
 				<p>FuturisticSEC is home to <a href="/about/">Umoru L. Zakari</a>, Freelance Digital Forensics and Operating System Security Hardening.</p>
-				<p><a href="http://facebook.com/FuturisticSEC">Faceook</a> | <a href="http://github.com/FuturisticSEC">Github</a> | <a href="http://twitter.com/Futuristic_SEC">Twitter</a> 
+				<p><a href="http://facebook.com/FuturisticSEC">Facebook</a> | <a href="http://github.com/FuturisticSEC">Github</a> | <a href="http://twitter.com/Futuristic_SEC">Twitter</a> 
 {% endif %}
 				<p>
 					<small>© {{ site.time | date: '%Y' }} FuturisticSEC.</small><br />

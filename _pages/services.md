@@ -27,7 +27,7 @@ Our services are only limited by your needs. Your needs are our services. Just l
 * _Wrongful Termination Disputes_
 
 
-###Critical Security Control Hardening
+# Critical Security Control Hardening
 
 * _Inventory of Authorized and Unauthorized Devices_
 * _Inventory of Authorized and Unauthorized Software_
@@ -50,7 +50,7 @@ Our services are only limited by your needs. Your needs are our services. Just l
 * _Incident Response and Management_
 
 
-###Extras Pack
+# Extras Pack
  
 
 This are special open-source package, that we are going to ship along with our Operating System Security Hardening Services, to further make system less lose and secure, compare to the defaults settings that come with any system.
