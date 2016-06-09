@@ -34,7 +34,7 @@ Each component can be install along with the complete CCTV package, with either 
 * _CCTV Complete Installation_
 * _Burgler Alarm_
 * _Smoke/Carbon Monoxide Detectors_
-* _Motion/Heat Detectors_
+* _Motion/Temperature Detectors_
 * _Flood Control Detectors_
 
 We make delivery of the below security devices.
