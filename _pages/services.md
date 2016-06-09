@@ -15,6 +15,7 @@ Our services are only limited by your needs. Your needs are our services. Just l
 * _Corporate E-mail Investigations and Correspondence_
 * _Corporate Employee Embezzlement_
 * _Cyberstalking, Hacking, Keyloggers, Illegal Activity_
+* _Data Recovery Capability on any device_
 * _Divorce Cases (Email, internet chat sites, facebook correspondence and websites visited)_
 * _Employee Activity (Search for excessive personal browsing during work hours)_
 * _Employee Theft_
@@ -26,29 +27,24 @@ Our services are only limited by your needs. Your needs are our services. Just l
 * _Malware Removal_
 * _Wrongful Termination Disputes_
 
+### Home Security Services ###
 
-### Critical Security Control Hardening ###
+Each component can be install along with the complete CCTV package, with either an outdoor or indoor camera, with an option to remotely see what happens in your home from anywhere.
 
-* _Inventory of Authorized and Unauthorized Devices_
-* _Inventory of Authorized and Unauthorized Software_
-* _Secure Configurations for Hardware and Software on Mobile Devices, Laptops, Workstations, and Servers_
-* _Continuous Vulnerability Assessment and Remediation_
-* _Controlled Use of Administrative Privileges_
-* _Maintenance, Monitoring, and Analysis of Audit Logs_
-* _Email and Web Browser Protections_
-* _Malware Defenses_
-* _Limitation and Control of Network Ports, Protocols, and Services_
-* _Data Recovery Capability_
-* _Secure Configurations for Network Devices such as Firewalls, Routers, and Switches_
-* _Boundary Defense_
-* _Data Protection_
-* _Controlled Access Based on the Need to Know_
-* _Wireless Access Control_
-* _Account Monitoring and Control_
-* _Security Skills Assessment and Appropriate Training to Fill Gaps_
-* _Application Software Security_
-* _Incident Response and Management_
+* _CCTV Complete Installation_
+* _Burgler Alarm_
+* _Smoke/Carbon Monoxide Detectors_
+* _Motion/Heat Detectors_
+* _Flood Control Detectors_
 
+We make delivery of the below security devices.
+
+* _Fingerprint door lock_
+* _Fingerprint safe for guns and documents_
+* _Time clock for employee attendance_
+* _Facial Recognition_
+* _Iris recognition_
+* _Voice recognition_
 
 ### Extras Pack ###
  
