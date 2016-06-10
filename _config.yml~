@@ -6,8 +6,7 @@ avatar: '/img/avatar.png'
 email: 'zak@futuristicsec.com'
 disqus: 'futuristicsec'
 google_analytics: 'UA-72237868-1' 
-google_verify: 
-bing_verify: 
+ 
 
 
 include:  ['_pages']
@@ -22,7 +21,7 @@ excerpt_separator: "{{ more }}"
 safe:     true
 markdown: 'kramdown'
 timezone: 'Africa/Lagos'
-highlighter: 'pygments'
+highlighter: 'rouge'
 
 exclude:
     - Gemfile
