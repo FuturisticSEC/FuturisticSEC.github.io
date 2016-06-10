@@ -27,9 +27,9 @@ Our services are only limited by your needs. Your needs are our services. Just l
 * _Malware Removal_
 * _Wrongful Termination Disputes_
 
-### Home Security Services ###
+### Home Security System ###
 
-Each component can be install along with the complete CCTV package, with either an outdoor or indoor camera, with an option to remotely see what happens in your home from anywhere.
+Safety and security is too important to be left alone, we all need to know what happen when we are not at home or far from home, you need a CCTV, with either an outdoor or indoor camera, with an option to remotely see what happens in your home from anywhere.
 
 * _CCTV Complete Installation_
 * _Burgler Alarm_
@@ -37,7 +37,8 @@ Each component can be install along with the complete CCTV package, with either 
 * _Motion/Temperature Detectors_
 * _Flood Control Detectors_
 
-We make delivery of the below security devices.
+
+While biometrics systems are often used for security purposes, they also are being used to provide a convenience for certain business and home applications, We make delivery of any of the below security devices.
 
 * _Fingerprint door lock_
 * _Fingerprint safe for guns and documents_
@@ -49,34 +50,34 @@ We make delivery of the below security devices.
 ### Extras Pack ###
  
 
-This are special open-source package, that we are going to ship along with our Operating System Security Hardening Services, to further make system less lose and secure, compare to the defaults settings that come with any system.
+This are special open-source package, some we have a reseller right on, while some we charge for normal installation and maintainance.
 
 * _Electronic Medical Record_
 
-This Electronic Medical Record software, is here to help providers better document, understand, plan, and manage their patients health, and health care delivery. (specifically in ambulatory settings, i.e. multi-professional practices and clinics). It can be useful to anyone documenting the health of patients including, but not limited to Doctors, Physical therapists, Occupational therapists, Acupuncturists, Nurses, Psychologists, Pharmacist etc. [Read More](/extras/Gnumed.md)
+This Electronic Medical Record software, is here to help providers better document, understand, plan, and manage their patients health, and health care delivery. (specifically in ambulatory settings, i.e. multi-professional practices and clinics). It can be useful to anyone documenting the health of patients including, but not limited to Doctors, Physical therapists, Occupational therapists, Acupuncturists, Nurses, Psychologists, Pharmacist etc. [Read More in PDF](/extras/Gnumed.pdf)
 
 * _Monitor your Servers, Websites and IP_
 
-One place to monitor servers, websites and IP Addresses, stop spending big and focus on your work. Why not let us keep you informed with everything going on, with your server or websites. Monitor 20+ Server Parameters: CPU, RAM, Disk Space, Network, etc. Monitor Server Ports and Services (e.g. HTTP, DNS, DB), with option to configure E-mail and Skype Alerts and Take Pre-emptive Measures, some plan can come with complete monitoring and backup to the Cloud. [Read More](/extras/Monitors.md)
+One place to monitor servers, websites and IP Addresses, stop spending big and focus on your work. Why not let us keep you informed with everything going on, with your server or websites. Monitor 20+ Server Parameters: CPU, RAM, Disk Space, Network, etc. Monitor Server Ports and Services (e.g. HTTP, DNS, DB), with option to configure E-mail and Skype Alerts and Take Pre-emptive Measures, some plan can come with complete monitoring and backup to the Cloud. [Read More in PDF](/extras/Monitors.pdf)
 
 * _Let the Child Play_
 
-We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, and the need for children to indulge into using it creatively at an early stage, with a collection of educational activities, to build young children mind as they grow. [Read More](/extras/Childplay.md)
+We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, and the need for children to indulge into using it creatively at an early stage, with a collection of educational activities, to build young children mind as they grow. [Read More in PDF](/extras/Childplay.pdf)
  
 * _Secure Linux POS Installation_
 
-Point of Sales is very efficient for any small and medium company that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of Malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More](/extras/POS.md)
+Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More in PDF](/extras/POS.pdf)
 
-* _School Management and Student Information System_
+* _Fedena School Management and Student Information System_
 
-This school management software that has more features than a student information system. This software is use to efficiently manage students, teachers, employees, courses & all the system & process related to your institution. It is a one stop solution for all school management related issues and helps you manage student databases and all other activities online.  [Read More](/extras/School.md)
+The Fedena school management software that has more features than a student information system, Is a system that is use to efficiently manage students, teachers, employees, courses & all the process related to your institution. It is a one stop solution for all school management related issues and helps you manage student databases and all other activities online.  [Read More in PDF](/extras/Fededna.pdf)
 
 * _Enterprise Resource Planning (ERP) is a category of business-management software—typically a suite of integrated applications—that an organization can use to collect, store, manage and interpret data from many business activities, including: product planning, cost. manufacturing or service delivery. marketing and sales._
 
 * _Small and Medium Companies, Foundations and Freelancers_
 
-This ERP is designed for users looking for a software package to manage activity of their company or foundation, easily and everywhere. Modularity of this software allows you to have a software that fit perfectly for all your needs, whatever is the king of your activity. It's a fit for all.  [Read More](/extras/ERP1.md)
+DolibarrERP is designed for users looking for a software package to manage activity of their SME, freelance or foundation, easily and everywhere. Modularity of this software allows you to have a software that fit perfectly for all your needs, whatever is the king of your activity. It's a fit for all.  [Read More in PDF](/extras/Dolibarr.pdf)
 
 * _Wholesale, Distribution and Manufacturing_
 
-This particular ERP system provides best practise, multi-user business administration and accounting tools over the web. This is a complete web based accounting and business management system that requires only a web-browser and pdf reader to use. It has a wide range of features suitable for many businesses. [Read More](/extras/ERP2.md)
+WebERP system provides best practise, multi-user business administration and accounting tools over the web. This is a complete web based accounting and business management system that requires only a web-browser and pdf reader to use. It has a wide range of features suitable for many businesses. [Read More in PDF](/extras/Weberp.pdf)
