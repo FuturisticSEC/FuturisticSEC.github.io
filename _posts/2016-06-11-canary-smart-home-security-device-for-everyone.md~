@@ -14,7 +14,7 @@ That was back in 2012, by now we should be expecting more danger from burglars, 
 
 60% of burglaries occur in the daytime when the residents are away.
 
-Canary is a single device that contains an HD video camera and multiple sensors that track everything from motion, temperature and air quality to vibration, sound, and activity to help keep you, your family and your home safe.
+Canary is a single device that contains an HD video camera and multiple sensors that track everything from motion, temperature and air quality to vibration, sound, and activity to help keep you, your family and your home safe, keep tab on your dog, babysitter, all the way while providing security with no monthly fee.
 
 ![everything from Phone](/img/posts/canaries-phone.jpg)
 
