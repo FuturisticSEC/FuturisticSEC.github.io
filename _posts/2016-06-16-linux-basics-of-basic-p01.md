@@ -5,7 +5,7 @@ tags:    linux command system
 image:   linux-windows.jpg
 ---
 
-Good Day Pal, today we'll be discussing about linux as an operating system with many benefits that come with it. There's a lot of tutorials online as regard to how you can use Linux, but i'll be bringing you a sheet-cheat of the most essential commands on linux. [read more on Linux through wikipedia](https://en.wikipedia.org/wiki/Linux).
+Good Day Pal, today we'll be discussing about linux as an operating system with many benefits that come with it. There's a lot of tutorials online as regard to how you can use Linux, but i'll be bringing you a cheat-sheet of the most essential commands on linux. [read more on Linux through wikipedia](https://en.wikipedia.org/wiki/Linux).
 
 {{ more }}
 
