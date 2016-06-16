@@ -1,27 +1,27 @@
-name:   'FuturisticSEC Website and Blog'
+name:   'FuturisticSEC Blog'
 url:    'www.futuristicsec.com'
 author: 'Umoru L. Zakari'
-description: 'Digital Forensics and Incident Response'
+description: 'Digital Forensics and Information System Security'
 avatar: '/img/avatar.png'
 email: 'zak@futuristicsec.com'
 disqus: 'futuristicsec'
 google_analytics: 'UA-72237868-1' 
  
-
+gems:  [jekyll-paginate]
 
 include:  ['_pages']
-gems:  [jekyll-paginate]
+
 paginate:      10
 paginate_path: '/blog/page:num/'
 permalink:     '/blog/:year/:title/'
-relative_permalinks: false
+
 
 excerpt_separator: "{{ more }}"
 
-safe:     true
-markdown: 'kramdown'
-timezone: 'Africa/Lagos'
-highlighter: 'rouge'
+
+markdown: kramdown
+timezone: Africa/Lagos
+highlighter:  rouge
 
 exclude:
     - Gemfile
