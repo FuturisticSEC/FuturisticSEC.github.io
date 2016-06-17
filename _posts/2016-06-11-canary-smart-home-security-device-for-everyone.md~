@@ -50,7 +50,7 @@ Canary’s secure mobile app enables you to check in on your home from virtually
 
 Within the Canary app you can easily monitor and track data from many sources within your home, including temperature, air quality, humidity, activity (video, audio & movement) and other trends in your home environment.
 
-# Service Plan
+### Service Plan
 
 With Canary, the app and primary service are free, and accessable via as many phones as you’d like. That means you can download the free app, receive alerts, add your friends or family as your backup, and see live streaming of video, audio and other sensor data.
 
