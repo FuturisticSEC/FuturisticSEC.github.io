@@ -13,7 +13,7 @@ Here in Nigeria, the name *Linux* still sound strange to a lot of people out the
 
 Am not asking you to dump windows, but am asking about giving Linux a try, [here's a list of different Linux flavors with details](http://www.linuxlookup.com/linux_iso). You can do alot with Linux, but first you should also know that you can install Linux along side your default OS(windows), i am using Ubuntu Linux, you can search more on the flavors that suite your taste. Linux is Opensource, meaning it is free. All you have to do after installation is apt-get update && apt-get upgrade && apt-get dist-upgrade to get your OS to the latest version.
 
-# System Commands Up
+### System Commands
 
 `uname -a  => Display linux system informatiom`
 ![uname -a](/img/posts/uname.png)
