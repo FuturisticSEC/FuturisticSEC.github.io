@@ -1,0 +1,23 @@
+---
+layout:  post
+title:   Hard Disks
+tags:    images hard-disks
+image:   linux-windows.jpg
+---
+
+Data is the driving force of any system that uses computers. Data availability is the reason the
+Internet became popular, and the ability to modify, store, process, and retrieve data is a major reason why computers are used in homes and businesses around the world.The term storage
+media usually refers to a means of storing data permanently, and numerous methods can be used
+to store data more or less permanently on several different media types.These methods include
+storing data magnetically on a disk or using optical disks.
+
+{{ more }}
+
+In this chapter, we’ll look at various types of fixed and removable media, and learn how
+they store (and sometimes lose) data.We’ll also look at one of the most common data types
+that is saved to media and analyzed in computer forensic examinations: images. Image files com-
+prise digital photos, line art, and other graphical representations of people, places, and objects that can be saved to a storage device or other medium. As we’ll see, these files can be created in a variety of different formats, and numerous techniques and tools can be used to view and recover damaged files.
+
+
+
+

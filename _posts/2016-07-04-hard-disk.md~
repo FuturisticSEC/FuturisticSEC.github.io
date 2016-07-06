@@ -1,0 +1,140 @@
+---
+layout:  post
+title:   Things to know about Hard-Disk
+tags:    images  hard-disks
+image:   harddisk-cover.jpg
+---
+
+Data is the driving force of any system that uses computers. Data availability is the reason the
+Internet became popular, and the ability to modify, store, process, and retrieve data is a major reason why computers are used in homes and businesses around the world.
+
+The term storage media usually refers to a means of storing data permanently, and numerous methods can be used to store data more or less permanently on several different media types. These methods include storing data magnetically on a disk or using optical disks.
+
+{{ more }}
+
+We’ll look at various types of fixed and removable media, and learn how
+they store (and sometimes lose) data.We’ll also look at one of the most common data types
+that is saved to media and analyzed in computer forensic examinations: images. Image files com-
+prise digital photos, line art, and other graphical representations of people, places, and objects that can be saved to a storage device or other medium. 
+
+As we’ll see, these files can be created in a variety of different formats, and numerous techniques and tools can be used to view and recover damaged files.
+
+#### Overview of a Hard Disk
+
+Although removable hard disks exist, most HDDs are designed for installation inside a computer, and for that reason they were referred to as fixed disks.To avoid having to purchase custom or proprietary hard disks to fit inside different brands of computer, standards were developed early in the PC’s history.These standards dictate the size and shape of the hard disk, as well as the interfaces used to attach it to the computer.These standards are called form factors,
+and they refer to the physical external dimensions of the disk drive.The most common form
+factors that have been used over the past few decades are:
+
++ **5.25-inch** These were the first hard drives that were used on PCs, and they were
+commonly installed in machines during the 1980s.
++ **3.5-inch** This is the common size of form factor used in modern PCs.
++ **2.5-inch** This is the common size of form factor used in laptop/notebook computers.
+
+![types](/img/posts/hard-disk.png)
+
+#### Types of Disk Drives
+
+A disk drive is a mechanism that reads data from a disk and writes data onto a disk. The disk in the disk drive rotates at very high speeds, and heads in the disk drive are used to read and write data. Different types of disk drives use different types of disks. For example, a hard disk drive (HDD) accesses hard disks, and a floppy disk drive (FDD) accesses floppy disks. An optical disc drive (ODD) reads and writes the data from optical discs.
+
+* Fixed: These are drives like hard disks, which use media that are not removable.
+* Removable: These are drives that use media that are removable. A few examples of removable storage
+devices are:
+   + Floppy disk: This type of drive uses media that are portable magnetic disks on which data and programs can be stored. Floppy disks are disks that are made of either flexible or rigid plastic material.The storage capacity of a floppy disk varies, but typically floppies can hold very little.
+   + DVD: DVD is an acronym for digital versatile disc. It is a type of optical disc that holds far more information than a CD-ROM. A DVD can hold a minimum of 4.7 GB of data to a maximum of 17 GB.
+   + Zip disk: Zip disks are used to hold data that requires more storage than a floppy disk can provide. Zip disks are used to back up disks and larger documents. Like floppy disks, Zip disks can be written to multiple times.
+
+Data is organized on a hard disk in a method similar to that of a filing cabinet. The user can easily access the data and programs. When a computer uses a program or data, the program or data is copied from its location to a temporary location. When a user makes changes to a file, the computer saves the file by replacing the older file with the new file. Data is recorded magnetically onto a hard disk. A rapidly spinning platter is used as the recording medium. Heads just above the surface of the platter are used to read data from and write data to the platter. A standard interface connects a hard disk to a computer. Two common interfaces are IDE and SCSI.
+
+#### Characteristics
+
++ Capacity of the hard disk
++ Interface used
++ Speed in rotations per minute
++ Seek time
++ Access time
++ Transfer time
+
+Once damaged, a hard disk usually cannot be repaired. When a disk fails, recovering data from it is possible only after installing a new hard disk and accessing the damaged disk as a secondary drive.
+
+#### Physical Makeup
+
+A hard disk is a sealed unit containing a number of platters in a stack. It can be mounted in a horizontal or vertical position. Electromagnetic read/write heads are positioned above and below each platter. As the platters spin, the drive heads move in toward the center surface and out toward the edge. In this way, the drive heads
+reach the entire surface of every platter.
+
+On every hard disk, data is stored in thin, concentric bands, called tracks. A drive head reads from or writes to a circular ring called a track. On a 3.5-inch hard disk, there could be a thousand tracks. Tracks consist of sectors, the smallest physical storage units on a hard disk. A sector is almost always 512 bytes (0.5 kilobyte) in size. Figure 1-1 shows the parts of a hard disk.
+
+#### Zoned Bit Recording
+
+Data is recorded onto a hard disk using a method called zoned bit recording. Zoned bit recording is also known as multiple zone recording (zone recording). In this technique, tracks are combined together into zones depending on their distance from the center of the disk. Each zone is assigned a number of sectors per track.
+There are three types of data densities on a hard disk:
+
++ Track density: Space between tracks on a disk
++ Area density: Number of bits per square inch on a platter
++ Bit density: The bits per unit length of track
+
+![physical makeup](/img/posts/hard_disk2.png)
+
+#### Hard Disk Interfaces
+
+The following are the types of hard disk interfaces:
+
++ **Small computer system interface (SCSI)**: Allows a user to connect 15 peripheral devices to one PCI board known as a SCSI host adapter, which is plugged into the motherboard.
++ **Integrated drive electronics/enhanced IDE (IDE/EIDE)**: Connects hard disk drives, optical disc drives, and tape drives to personal computers. With this type of interface, the drive controller is built into the
++ **Universal Serial Bus (USB)**: Connects peripheral devices such as hard disks, modems, printers, digitizers, and data gloves to a computer.
++ **Advanced technology attachment (ATA)**: This type of interface comes in two forms:
+   + **Serial ATA**: This provides a point-to-point channel between the motherboard and the drive.
+   + **Parallel ATA**: This provides a communications channel between the drive and the computer on which data can travel only one way at a time.
++ **Fiber Channel**: A point-to-point bidirectional serial interface that supports up to 1.0625 Gbps transfer rates. This interface comes in two forms:
+   + **Fiber Channel electrical interface**: This uses ECL (emitter-coupled logic) signaling levels over an unbalanced 75 W or balanced 150 W line.
+   + **Fiber Channel optical interface**: This uses a long-wave laser light source that can carry data at 1 Gbps over a distance of up to 10 km. It uses a long-wave laser (LL: long-wave laser (1300 nm)), a short-wave laser (SL: short-wave laser (780 nm)), and a light-emitting diode (LED: light-emitting diode (1300 nm)).
+
+#### Disk Capacity
+
+Disk capacity is the amount of data that a hard disk is capable of holding.The capacity is mea-
+sured in bytes, which is 7 or 8 bits (depending on whether error correction is used). A bit is
+short for binary digit (where the first two letters of binary and the T in bit are used to create the name), and it is the smallest unit of measurement for data. It can have a value of 1 or 0, which respectively indicates on or off. A bit is abbreviated as b, whereas a byte is abbreviated as B. Because bits and bytes are incredibly small measurements of data, and the capacity of an HDD or other medium is considerably larger, capacity is measured in increments of these values.
+
+A kilobyte is abbreviated as KB, and although you might expect this to equal 1,000 bytes, it
+actually equals 1,024 bytes.This is because a kilobyte is calculated using binary (base 2) math
+instead of decimal (base 10) math. Because computers use this function to calculate the number of bytes used, a kilobyte is calculated as 210 or 1,024.These values increase proportionally, but to make it easier for laypeople to understand, the terms associated with the number of bytes are incremented by thousands, millions, and larger numbers of bytes.The various units used to describe the capacity of disks are as follows:
+
++ Kilobyte (KB), which is actually 1,024 bytes
++ Megabyte (MB), which is 1,024KB or 1,048,576 bytes
++ Gigabyte (GB), which is 1,024MB or 1,073,741,824 bytes
++ Terabyte (TB), which is 1,024GB or 1,099,511,627,776 bytes
++ Petabyte (PB), which is 1,024TB or 1,125,899,906,842,624 bytes
++ Exabyte (EB), which is 1,024PB or 1,152,921,504,606,846,976 bytes
++ Zettabyte (ZB), which is 1,024EB or 1,180,591,620,717,411,303,424 bytes
++ Yottabyte (YB), which is 1,024ZB or 1,208,925,819,614,629,174,706,176 bytes
+
+To put these monumental sizes in terms that are fathomable, consider that a single terabyte can hold roughly the equivalent of 1,610 CDs of data, or approximately the same amount of data stored in all the books of a large library.
+
+#### Calculating Disk Capacity
+
+Hard disk capacity is determined by elements of the disk, including the number of tracks, sec-
+tors, and surfaces on which data can be written. As we’ve seen, these elements determine how
+the HDD accesses data, and the amount of data that can be written to a disk.The capacity of a
+hard disk drive can be calculated using the following formula:
+
+**Capacity = (bytes/sector) * (sectors/track) * (tracks/surface) * # of surfaces**
+
+If we were to look at the specifications of the following hard disk, we could use the infor-
+mation to calculate the disk capacity of the drive:
+
++ Bytes per sector: 512
++ Sectors/track (avg): 426
++ Total tracks: 43,152
++ Total cylinders: 14,384
++ Number of heads: 3
+
+In looking at these specifications of an actual hard disk, you will notice that the tracks/sur-
+face is not provided, but we are given the total tracks and number of physical heads.This is
+common to many hard disk specifications. However, because each head reads the surface of the disk, this gives us the number of surfaces on the HDD. Using this information, we could divide the total tracks by the number of heads (i.e., 43,152 / 3) to get the tracks/surface, or we could simply revise the formula to:
+
+**Capacity = (bytes/sector) * (sectors/track) * total tracks**
+
+Using the preceding formula, we would find the disk capacity as follows:
+
+**512 bytes/sector * 426 sectors/track * 43,152 total tracks = 9411969024 or 9.4GB**.
+
+To read more on hard-disk, you can check out Investigating **Hard Disks,File and Operating Systems by CHFI**, or use google.
