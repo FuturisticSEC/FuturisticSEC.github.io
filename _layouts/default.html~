@@ -34,7 +34,7 @@
 {% if page.nobio != true %}{% if location != '' %}
 				<img class="avatar" src="/img/avatar.png?s=144" alt="Me" />
 {% endif %}
-				<p>FuturisticSEC is home to <a href="/about/">Umoru L. Zakari</a>, Freelance Digital Forensics and Information Systems Security. Consultant, and Entrepreneur.</p>
+				<p>FuturisticSEC is home to <a href="/about/">Umoru L. Zakari</a>, Freelance Digital Forensics and Information Systems Security, Consultant, and Entrepreneur.</p>
 				<p><a href="http://facebook.com/FuturisticSEC">Facebook</a> | <a href="http://github.com/FuturisticSEC">Github</a> | <a href="http://twitter.com/Futuristic_SEC">Twitter</a> 
 {% endif %}
 				<p>
@@ -54,7 +54,7 @@ If you are forking this repository, please remove or update the following
 Google Analytics tracking code and disqus shortname before enabling the
 javascript segment below.
 
-{% endcomment %}{% if site.github.owner_name == 'futuristicSEC' %}
+  if site.github.owner_name == 'futuristicSEC'
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-72237868-1']);
