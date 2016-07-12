@@ -76,6 +76,6 @@ javascript segment below.
 				}
 			})();
 		</script>
-{% endif %}
+
 	</body>
 </html>
