@@ -4,6 +4,8 @@ title:   Biometric Fingerprint safes
 image:   images-finger-scan-safes.jpeg
 ---
 
+
+
 The best biometric safes offer next generation security for your home or business if you are looking for a way to protect your valuables or firearms using a biometric wall safe or home vaults.
 
 {{ more }}

@@ -5,6 +5,8 @@ tags:    images  hard-disks
 image:   harddisk-cover.jpg
 ---
 
+
+
 Data is the driving force of any system that uses computers. Data availability is the reason the
 Internet became popular, and the ability to modify, store, process, and retrieve data is a major reason why computers are used in homes and businesses around the world.
 
@@ -13,7 +15,7 @@ The term storage media usually refers to a means of storing data permanently, an
 {{ more }}
 
 We’ll look at various types of fixed and removable media, and learn how
-they store (and sometimes lose) data.We’ll also look at one of the most common data types
+they store (and sometimes lose) data. We’ll also look at one of the most common data types
 that is saved to media and analyzed in computer forensic examinations: images. Image files com-
 prise digital photos, line art, and other graphical representations of people, places, and objects that can be saved to a storage device or other medium. 
 
@@ -137,4 +139,4 @@ Using the preceding formula, we would find the disk capacity as follows:
 
 **512 bytes/sector * 426 sectors/track * 43,152 total tracks = 9411969024 or 9.4GB**.
 
-To read more on hard-disk, you can check out Investigating **Hard Disks,File and Operating Systems by CHFI**, or use google.
+To read more on hard-disk, you can check out **Investigating Hard Disks,File and Operating Systems by CHFI**, or use google.
