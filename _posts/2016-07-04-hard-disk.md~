@@ -14,21 +14,15 @@ The term storage media usually refers to a means of storing data permanently, an
 
 {{ more }}
 
-We’ll look at various types of fixed and removable media, and learn how
-they store (and sometimes lose) data. We’ll also look at one of the most common data types
-that is saved to media and analyzed in computer forensic examinations: images. Image files com-
-prise digital photos, line art, and other graphical representations of people, places, and objects that can be saved to a storage device or other medium. 
+We’ll look at various types of fixed and removable media, and learn how they store (and sometimes lose) data. We’ll also look at one of the most common data types that is saved to media and analyzed in computer forensic examinations: images. Image files comprise digital photos, line art, and other graphical representations of people, places, and objects that can be saved to a storage device or other medium. 
 
 As we’ll see, these files can be created in a variety of different formats, and numerous techniques and tools can be used to view and recover damaged files.
 
 #### Overview of a Hard Disk
 
-Although removable hard disks exist, most HDDs are designed for installation inside a computer, and for that reason they were referred to as fixed disks.To avoid having to purchase custom or proprietary hard disks to fit inside different brands of computer, standards were developed early in the PC’s history.These standards dictate the size and shape of the hard disk, as well as the interfaces used to attach it to the computer.These standards are called form factors,
-and they refer to the physical external dimensions of the disk drive.The most common form
-factors that have been used over the past few decades are:
+Although removable hard disks exist, most HDDs are designed for installation inside a computer, and for that reason they were referred to as fixed disks.To avoid having to purchase custom or proprietary hard disks to fit inside different brands of computer, standards were developed early in the PC’s history. These standards dictate the size and shape of the hard disk, as well as the interfaces used to attach it to the computer.These standards are called form factors, and they refer to the physical external dimensions of the disk drive. The most common form factors that have been used over the past few decades are:
 
-+ **5.25-inch** These were the first hard drives that were used on PCs, and they were
-commonly installed in machines during the 1980s.
++ **5.25-inch** These were the first hard drives that were used on PCs, and they were commonly installed in machines during the 1980s.
 + **3.5-inch** This is the common size of form factor used in modern PCs.
 + **2.5-inch** This is the common size of form factor used in laptop/notebook computers.
 
@@ -41,7 +35,7 @@ A disk drive is a mechanism that reads data from a disk and writes data onto a d
 * Fixed: These are drives like hard disks, which use media that are not removable.
 * Removable: These are drives that use media that are removable. A few examples of removable storage
 devices are:
-   + Floppy disk: This type of drive uses media that are portable magnetic disks on which data and programs can be stored. Floppy disks are disks that are made of either flexible or rigid plastic material.The storage capacity of a floppy disk varies, but typically floppies can hold very little.
+   + Floppy disk: This type of drive uses media that are portable magnetic disks on which data and programs can be stored. Floppy disks are disks that are made of either flexible or rigid plastic material. The storage capacity of a floppy disk varies, but typically floppies can hold very little.
    + DVD: DVD is an acronym for digital versatile disc. It is a type of optical disc that holds far more information than a CD-ROM. A DVD can hold a minimum of 4.7 GB of data to a maximum of 17 GB.
    + Zip disk: Zip disks are used to hold data that requires more storage than a floppy disk can provide. Zip disks are used to back up disks and larger documents. Like floppy disks, Zip disks can be written to multiple times.
 
@@ -67,8 +61,7 @@ On every hard disk, data is stored in thin, concentric bands, called tracks. A d
 
 #### Zoned Bit Recording
 
-Data is recorded onto a hard disk using a method called zoned bit recording. Zoned bit recording is also known as multiple zone recording (zone recording). In this technique, tracks are combined together into zones depending on their distance from the center of the disk. Each zone is assigned a number of sectors per track.
-There are three types of data densities on a hard disk:
+Data is recorded onto a hard disk using a method called zoned bit recording. Zoned bit recording is also known as multiple zone recording (zone recording). In this technique, tracks are combined together into zones depending on their distance from the center of the disk. Each zone is assigned a number of sectors per track. There are three types of data densities on a hard disk:
 
 + Track density: Space between tracks on a disk
 + Area density: Number of bits per square inch on a platter
@@ -92,13 +85,9 @@ The following are the types of hard disk interfaces:
 
 #### Disk Capacity
 
-Disk capacity is the amount of data that a hard disk is capable of holding.The capacity is mea-
-sured in bytes, which is 7 or 8 bits (depending on whether error correction is used). A bit is
-short for binary digit (where the first two letters of binary and the T in bit are used to create the name), and it is the smallest unit of measurement for data. It can have a value of 1 or 0, which respectively indicates on or off. A bit is abbreviated as b, whereas a byte is abbreviated as B. Because bits and bytes are incredibly small measurements of data, and the capacity of an HDD or other medium is considerably larger, capacity is measured in increments of these values.
+Disk capacity is the amount of data that a hard disk is capable of holding.The capacity is measured in bytes, which is 7 or 8 bits (depending on whether error correction is used). A bit is short for binary digit (where the first two letters of binary and the T in bit are used to create the name), and it is the smallest unit of measurement for data. It can have a value of 1 or 0, which respectively indicates on or off. A bit is abbreviated as b, whereas a byte is abbreviated as B. Because bits and bytes are incredibly small measurements of data, and the capacity of an HDD or other medium is considerably larger, capacity is measured in increments of these values.
 
-A kilobyte is abbreviated as KB, and although you might expect this to equal 1,000 bytes, it
-actually equals 1,024 bytes.This is because a kilobyte is calculated using binary (base 2) math
-instead of decimal (base 10) math. Because computers use this function to calculate the number of bytes used, a kilobyte is calculated as 210 or 1,024.These values increase proportionally, but to make it easier for laypeople to understand, the terms associated with the number of bytes are incremented by thousands, millions, and larger numbers of bytes.The various units used to describe the capacity of disks are as follows:
+A kilobyte is abbreviated as KB, and although you might expect this to equal 1,000 bytes, it actually equals 1,024 bytes. This is because a kilobyte is calculated using binary (base 2) math instead of decimal (base 10) math. Because computers use this function to calculate the number of bytes used, a kilobyte is calculated as 210 or 1,024. These values increase proportionally, but to make it easier for laypeople to understand, the terms associated with the number of bytes are incremented by thousands, millions, and larger numbers of bytes. The various units used to describe the capacity of disks are as follows:
 
 + Kilobyte (KB), which is actually 1,024 bytes
 + Megabyte (MB), which is 1,024KB or 1,048,576 bytes
@@ -113,15 +102,11 @@ To put these monumental sizes in terms that are fathomable, consider that a sing
 
 #### Calculating Disk Capacity
 
-Hard disk capacity is determined by elements of the disk, including the number of tracks, sec-
-tors, and surfaces on which data can be written. As we’ve seen, these elements determine how
-the HDD accesses data, and the amount of data that can be written to a disk.The capacity of a
-hard disk drive can be calculated using the following formula:
+Hard disk capacity is determined by elements of the disk, including the number of tracks, sectors, and surfaces on which data can be written. As we’ve seen, these elements determine how the HDD accesses data, and the amount of data that can be written to a disk.The capacity of a hard disk drive can be calculated using the following formula:
 
 **Capacity = (bytes/sector) * (sectors/track) * (tracks/surface) * # of surfaces**
 
-If we were to look at the specifications of the following hard disk, we could use the infor-
-mation to calculate the disk capacity of the drive:
+If we were to look at the specifications of the following hard disk, we could use the information to calculate the disk capacity of the drive:
 
 + Bytes per sector: 512
 + Sectors/track (avg): 426
@@ -129,9 +114,7 @@ mation to calculate the disk capacity of the drive:
 + Total cylinders: 14,384
 + Number of heads: 3
 
-In looking at these specifications of an actual hard disk, you will notice that the tracks/sur-
-face is not provided, but we are given the total tracks and number of physical heads.This is
-common to many hard disk specifications. However, because each head reads the surface of the disk, this gives us the number of surfaces on the HDD. Using this information, we could divide the total tracks by the number of heads (i.e., 43,152 / 3) to get the tracks/surface, or we could simply revise the formula to:
+In looking at these specifications of an actual hard disk, you will notice that the tracks/surface is not provided, but we are given the total tracks and number of physical heads.This is common to many hard disk specifications. However, because each head reads the surface of the disk, this gives us the number of surfaces on the HDD. Using this information, we could divide the total tracks by the number of heads (i.e., 43,152 / 3) to get the tracks/surface, or we could simply revise the formula to:
 
 **Capacity = (bytes/sector) * (sectors/track) * total tracks**
 
