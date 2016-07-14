@@ -54,8 +54,7 @@ If you are forking this repository, please remove or update the following
 Google Analytics tracking code and disqus shortname before enabling the
 javascript segment below.
 
-{% endcomment %}
-  if site.github.owner_name == 'futuristicSEC'
+{% endcomment %}{% if site.github.owner_name == 'futuristicSEC' %}
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-72237868-1']);
@@ -70,12 +69,12 @@ javascript segment below.
 					var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
 				};
 				load(('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
-				load('//' + futuristicsec + '.disqus.com/count.js');
+				load('//' + disqus_shortname + '.disqus.com/count.js');
 				if (document.getElementById('disqus_thread')) {
 					load('//' + disqus_shortname + '.disqus.com/embed.js');
 				}
 			})();
 		</script>
-
+{% endif %}
 	</body>
 </html>
