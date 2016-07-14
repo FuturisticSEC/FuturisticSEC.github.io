@@ -40,9 +40,9 @@ Safety and security is too important to be left alone, we all need to know what 
 
 While biometrics systems are often used for security purposes, they also are being used to provide a convenience for certain business and home applications, We make delivery of any of the below security devices.
 
-* _Fingerprint door lock_
+* _Fingerprint Biometric Door-lock_
 * _Smart Lock for Doors_
-* _Fingerprint safe for guns and documents_
+* _Fingerprint Biometric safe for documents and firearms_
 * _Time clock for employee attendance_
 * _Facial Recognition_
 * _Iris recognition_

@@ -55,7 +55,7 @@ Google Analytics tracking code and disqus shortname before enabling the
 javascript segment below.
 
 {% endcomment %}
-  if site.github.owner_name == 'futuristicSEC'
+  if site.github.owner_name == 'futuristicsec'
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-72237868-1']);

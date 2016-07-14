@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   Linux Basic of Basics Part-01 - System
+title:   Linux Basic of Basics Part-01 - System Command
 tags:    linux command system
 image:   linux-windows.jpg
 ---
