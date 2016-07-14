@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   Biometric Fingerprint safes
+title:   Biometric Fingerprint Safes
 image:   images-finger-scan-safes.jpeg
 ---
 
