@@ -25,6 +25,7 @@ Our services are only limited by your needs. Your needs are our services. Just l
 * _Insurance Fraud Cases_
 * _Intellectual Property Disputes_
 * _Malware Removal_
+* _Web Server Forensics_ 
 * _Wrongful Termination Disputes_
 
 ### Home Security System ###
@@ -42,7 +43,7 @@ While biometrics systems are often used for security purposes, they also are bei
 
 * _Fingerprint Biometric Door-lock_
 * _Smart Lock for Doors_
-* _Fingerprint Biometric safe for documents and firearms_
+* _Fingerprint Biometric safe_
 * _Time clock for employee attendance_
 * _Facial Recognition_
 * _Iris recognition_
