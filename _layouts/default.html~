@@ -60,6 +60,7 @@ javascript segment below.
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-72237868-1']);
 			_gaq.push(['_trackPageview']);
+
 			var disqus_shortname  = 'futuristicsec',
 			    disqus_identifier = '{{ page.path | split:'/' | last | cgi_escape }}',
 			    disqus_url        = '{{ site.url }}{{ page.url | uri_escape }}'
