@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   SugarCRM - The Customer Relation Management Software.
+title:   SugerCRM - The Customer Relationship Management Software.
 image:   logo_sugarcrm.png
 ---
 
