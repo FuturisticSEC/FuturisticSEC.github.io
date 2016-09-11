@@ -73,7 +73,7 @@ We are trying to partner up with primary-schools, kindergartens, pre-schools and
  
 * _Secure Linux POS Installation_
 
-Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More in PDF](/extras/POS.pdf)
+Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/)
 
 * _Fedena School Management and Student Information System_
 
