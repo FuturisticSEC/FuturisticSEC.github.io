@@ -69,11 +69,11 @@ One place to monitor servers, websites and IP Addresses, stop spending big and f
 
 * _Let the Child Play_
 
-We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, and the need for children to indulge into using it creatively at an early stage, with a collection of educational activities, to build young children mind as they grow. [Read More in PDF](/extras/Childplay.pdf)
+We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, and the need for children to indulge into using it creatively at an early stage, with a collection of educational activities, to build young children mind as they grow. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/)
  
 * _Secure Linux POS Installation_
 
-Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/)
+Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More in PDF](/extras/POS.pdf)
 
 * _Fedena School Management and Student Information System_
 
