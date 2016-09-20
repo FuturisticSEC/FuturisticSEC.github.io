@@ -8,9 +8,9 @@ While growing up i remember back then in Primary School, we had Computer Systems
 
 {{ more }}
 
-But today Computer had come to stay, and there is an unreasonable amount of things one can achieve with just an ordinary Computer, a lot of economy are becoming Computer dependent, infact if an economy had not integrated Digital Computer into her system, then that economy is likely to still suffer, e.g Nigeria. 
+But today Computer had come to stay, and there is an unreasonable amount of things one can achieve with just an ordinary Computer, a lot of economy are becoming Computer dependent, infact if an economy had not integrated Digital Computer into her system, then that economy is likely to still suffer, e.g Nigeria, Ghana, Togo, Benin and lots of third world country. 
 
-Due to personal experience, a lot of the Computers in our Nursery and Primary Schools are sitting idle with dust covering most part of it, we don't want our Future Leaders of tomorrow to grow up, and still not a Computer literate, when they can start learning now. So therefore we at Futuristic Security had to team up with our colleague at  schoolsplay.org to bring you the ChildsPlay Project.
+Due to personal experience, a lot of the Computers in our Nursery and Primary Schools are sitting idle with dust covering most part of it, we don't want our Future Leaders of tomorrow to grow up, and still not be a Computer literate, when they can start learning now. So therefore we at Futuristic Security had to team up with our colleague at  Schoolsplay.org to bring you the ChildsPlay Project to your doorstep.
 
 * _Childsplay is a fun and save way to let young children use the computer and at the same time teach them a little math, letters of the alphabeth, spelling, eye-hand coordination etc._
 
