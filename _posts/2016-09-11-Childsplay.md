@@ -20,7 +20,9 @@ Due to personal experience, a lot of the Computers in our Nursery and Primary Sc
 
 * _Childsplay can be used at home, kindergartens, pre-schools and early-primary._
 
-* _Solid data logging to monitor the children's progress_
+* _Pure game activities like puzzles, pong, pacman and billiards._
+
+* _Solid data logging to monitor the children's progress._
 
 Each activities that come with ChildsPlay had different level for a unique features and learning experience to help the Childs memory.
 

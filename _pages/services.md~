@@ -57,7 +57,7 @@ The below services are applicable to a Digital Computer, a Computer Hard-disk, a
 ### Extra-Pack Services ###
  
 
-This are special packages, that we felt the public may be in need of, some we have a reseller right on, while we charge minimal for hardening of Computer Device, installation and maintainance are free. Not all packs are Open-Source.
+This are special packages, that we felt the public may be in need of, some we have a reseller right on, while we charge minimal for hardening of Computer Device, installation and maintenance are free. Not all Application are Open-Source.
 
 * _Electronic Medical Record_
 
