@@ -35,4 +35,4 @@ If you are available for contracting opportunities or part-time employment, [ple
 
 
 Please Follow and Like FuturisticSEC:  
-↪ [Facebook](http://facebook.com/FuturisticSEC) | [Github](http://github.com/FuturisticSEC) |  [Twitter](http://twitter.com/Futuristic_SEC) 
+↪ [Facebook](http://facebook.com/FuturisticSEC) | [Youtube](http://www.youtube.com/channel/UCvusXdxV13876FevbL7m5cw") |  [Twitter](http://twitter.com/Futuristic_SEC) 

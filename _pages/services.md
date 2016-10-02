@@ -54,37 +54,38 @@ The below services are applicable to a Digital Computer, a Computer Hard-disk, a
 * _Wrongful Termination Disputes_
 
 
-### Extra-Pack Services ###
- 
+### Enterprise Resource Planning (ERP)
 
-This are special packages, that we felt the public may be in need of, some we have a reseller right on, while we charge minimal for hardening of Computer Device, installation and maintenance are free. Not all Application are Open-Source.
-
-* _Electronic Medical Record_
-
-This Electronic Medical Record software, is here to help providers better document, understand, plan, and manage their patients health, and health care delivery. (specifically in ambulatory settings, i.e. multi-professional practices and clinics). It can be useful to anyone documenting the health of patients including, but not limited to Doctors, Physical therapists, Occupational therapists, Acupuncturists, Nurses, Psychologists, Pharmacist etc. [Read More in PDF](/extras/Gnumed.pdf)
-
-* _Monitor your Servers, Websites and IP_
-
-One place to monitor servers, websites and IP Addresses, stop spending big and focus on your work. Why not let us keep you informed with everything going on, with your server or websites. Monitor 20+ Server Parameters: CPU, RAM, Disk Space, Network, etc. Monitor Server Ports and Services (e.g. HTTP, DNS, DB), with option to configure E-mail and Skype Alerts and Take Pre-emptive Measures, some plan can come with complete monitoring and backup to the Cloud. [Read More in PDF](/extras/Monitors.pdf)
-
-* _Let the Child Play_
-
-We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, and the need for children to indulge into using it creatively at an early stage, with a collection of educational activities, to build young children mind as they grow. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/)
- 
-* _Secure Linux POS Installation_
-
-Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More in PDF](/extras/POS.pdf)
-
-* _Fedena School Management and Student Information System_
-
-The Fedena school management software that has more features than a student information system, Is a system that is use to efficiently manage students, teachers, employees, courses & all the process related to your institution. It is a one stop solution for all school management related issues and helps you manage student databases and all other activities online.  [Read More in PDF](/extras/Fededna.pdf)
-
-* _Enterprise Resource Planning (ERP) is a category of business-management software—typically a suite of integrated applications—that an organization can use to collect, store, manage and interpret data from many business activities, including: product planning, cost. manufacturing or service delivery. marketing and sales._
+This is a category of business-management software—typically a suite of integrated applications—that an organization can use to collect, store, manage and interpret data from many business activities, including: product planning, cost. manufacturing or service delivery. marketing and sales._
 
 * _Small and Medium Companies, and Freelancers_
 
 SugarCRM enables businesses to create extraordinary customer relationships with the most innovative, flexible and affordable CRM solution in the market. The company uniquely places the individual at the center of its solution—helping businesses transform the customer experience and enable highly personalized interactions that drive customer excellence and loyalty throughout the entire customer lifecycle..  [Read More](http://www.futuristicsec.com/blog/2016/customer-relationship-management-software-Sugar/)
 
-* _Wholesale, Distribution and Manufacturing_
 
-WebERP system provides best practise, multi-user business administration and accounting tools over the web. This is a complete web based accounting and business management system that requires only a web-browser and pdf reader to use. It has a wide range of features suitable for many businesses. [Read More in PDF](/extras/Weberp.pdf)
+### School Services
+
+This list contain educational services and product.
+
+* _Let the Child Play and other educational activities application for Children_
+
+We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, with the need for children to indulge into using it creatively at an early age, the collections of educational activities to build young children mind, with a smile on their face, as looking forward to each experience, challenge and progress will leave reasonable amount of computing knowledge in them. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/)
+
+* _Fedena School Management and Student Information System_
+
+The Fedena school management software that has more features than a student information system, Is a system that is use to efficiently manage students, teachers, employees, courses & all the process related to your institution. It is a one stop solution for all school management related issues and helps you manage student databases and all other activities online.  [Read More in PDF](/extras/Fededna.pdf)
+
+
+### Other Services
+
+* _Monitor your Servers, Websites and IP in one place_
+
+One place to monitor servers, websites and IP Addresses, stop spending big and focus on your work. Why not let us keep you informed with everything going on, with your server or websites. Monitor 20+ Server Parameters: CPU, RAM, Disk Space, Network, etc. Monitor Server Ports and Services (e.g. HTTP, DNS, DB), with option to configure E-mail and Skype Alerts and Take Pre-emptive Measures, some plan can come with complete monitoring and backup to the Cloud. [Read More in PDF](/extras/Monitors.pdf)
+
+* _Secure Linux POS Installation_
+
+Point of Sales is very efficient for any small, medium and large enterprise that focus majorly on sales, as it help to boost sales and reputation. This POS will run on Linux Operating System, for fear of data loss or invasion of malware, which make linux safer compare to Windows, and linux is free, no licence, just install, update, and use. [Read More in PDF](/extras/POS.pdf)
+ 
+
+
+
