@@ -60,7 +60,7 @@ This is a category of business-management software—typically a suite of integr
 
 * _Small and Medium Companies, and Freelancers_
 
-SugarCRM enables businesses to create extraordinary customer relationships with the most innovative, flexible and affordable CRM solution in the market. The company uniquely places the individual at the center of its solution—helping businesses transform the customer experience and enable highly personalized interactions that drive customer excellence and loyalty throughout the entire customer lifecycle..  [Read More](http://www.futuristicsec.com/blog/2016/customer-relationship-management-software-Sugar/)
+SugarCRM enables businesses to create extraordinary customer relationships with the most innovative, flexible and affordable CRM solution in the market. The company uniquely places the individual at the center of its solution—helping businesses transform the customer experience and enable highly personalized interactions that drive customer excellence and loyalty throughout the entire customer lifecycle. [Read More](http://www.futuristicsec.com/blog/2016/customer-relationship-management-software-Sugar/)
 
 
 ### School Services
@@ -69,7 +69,7 @@ This list contain educational services and product.
 
 * _Let the Child Play and other educational activities application for Children_
 
-We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, with the need for children to indulge into using it creatively at an early age, the collections of educational activities to build young children mind, with a smile on their face, as looking forward to each experience, challenge and progress will leave reasonable amount of computing knowledge in them. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/)
+We are trying to partner up with primary-schools, kindergartens, pre-schools and parents at home, about the importance of Computer in our society and the future to come, with the need for children to indulge into using it creatively at an early age, the collections of educational activities to build young children mind, with a smile on their face, as looking forward to each Experience, Challenge and Progress, that will in turn instill reasonable amount of Computing, Alphabets, Numbers and Logical knowledge in them. [Read More](http://www.futuristicsec.com/blog/2016/Childsplay/) or <a href="https://www.youtube.com/watch?v=gHgw6-UgNlA">Watch Video</a>.
 
 * _Fedena School Management and Student Information System_
 
